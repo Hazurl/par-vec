@@ -38,7 +38,7 @@ BUILD_EXE_FOLDER := $(BUILD_FOLDER)/executable
 ##### GENERAL SETTINGS
 #####
 
-PROJECT_NAME := parser_combinator
+PROJECT_NAME := par_vec
 CXX := g++
 SXX := ar
 
